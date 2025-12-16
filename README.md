@@ -9,7 +9,8 @@ https://akashchip.github.io/PusadMart_Web/
 
 ## 📄 Pages
 
-- **Home:** App download & contact info  
+- **Home:** App download & contact info
+  https://akashchip.github.io/PusadMart_Web/
 - **Privacy Policy:**  
   https://akashchip.github.io/PusadMart_Web/privacy-policy.html  
 - **Terms & Conditions:**  
