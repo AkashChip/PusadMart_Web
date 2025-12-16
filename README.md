@@ -14,7 +14,8 @@ https://akashchip.github.io/PusadMart_Web/
   https://akashchip.github.io/PusadMart_Web/privacy-policy.html  
 - **Terms & Conditions:**  
   https://akashchip.github.io/PusadMart_Web/terms.html  
-
+-**Delete Account:**
+  https://akashchip.github.io/PusadMart_Web/delete-account.html
 ---
 
 ## 🛠 Tech Stack
